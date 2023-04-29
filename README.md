@@ -1,8 +1,8 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+**English** | [中文]
 
 # Actions-OpenWrt
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/qxzzwh/OpenWrt-Actions/blob/main/LICENSE.txt)
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
@@ -41,4 +41,4 @@ A template for building OpenWrt with GitHub Actions
 
 ## License
 
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+[MIT](https://github.com/qxzzwh/OpenWrt-Actions/blob/main/LICENSE.txt) © [**Coin**](https://blog.ironegg.xyz/)
