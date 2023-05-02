@@ -1,12 +1,15 @@
-**English** | [中文]
+**English**
 
-# Actions-OpenWrt
+# OpenWrt-Actions
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/qxzzwh/OpenWrt-Actions/blob/main/LICENSE.txt)
 ![GitHub Stars](https://img.shields.io/github/stars/qxzzwh/OpenWrt-Actions.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/qxzzwh/OpenWrt-Actions.svg?style=flat-square&label=Forks&logo=github)
 
-Build OpenWrt with GitHub Actions
+Build OpenWrt with GitHub Actions. The original code is from [P3TERX](https://github.com/P3TERX/Actions-OpenWrt). This code is for compiling OpenWrt and for my personal usage.
+:warning:The sample configuration file included in this code is only for gateway service (bypass router mode) and has only one LAN port.
+
+[OpenWrt Compilation Step-by-Step Command Explanation Tutorial](https://blog.ironegg.xyz/archives/openwrt-compilation-step-by-step-command-explanation-tutorial)
 
 ## Usage
 
